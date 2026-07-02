@@ -31,8 +31,21 @@ fun_fact: "I turn complex datasets into stories that actually make sense 📊"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-bajpai-58b36128b/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavbajpayee88@gmail.com)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=8B8FA3&center=true&vCenter=true&width=500&lines=Let's+talk+data%2C+dashboards%2C+or+collaborations!" alt="tagline" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/abhinav-bajpai-58b36128b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="linkedin"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:abhinavbajpayee88@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="gmail"/>
+</a>
+
+<sub>👆 click an icon to reach out</sub>
 
 </div>
 
@@ -40,108 +53,42 @@ fun_fact: "I turn complex datasets into stories that actually make sense 📊"
 
 <div align="center">
 
-**Languages**
+<sub>**LANGUAGES**</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,r,js&theme=dark" /><br/><br/>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<sub>**DATABASES & CLOUD**</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,azure&theme=dark" /><br/><br/>
 
-**Data & ML**
+<sub>**AI / ML FRAMEWORKS**</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" /><br/><br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<sub>**DESIGN & DEPLOYMENT**</sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vercel,figma,github&theme=dark" /><br/><br/>
 
-**Databases & Cloud**
+<sub>**DATA SCIENCE STACK**</sub>
+<br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Tools & Platforms**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=Matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
 
 </div>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavbajpayee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbajpayee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavbajpayee&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavbajpayee&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhinavbajpayee/abhinavbajpayee/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>⚙️ Powered by a GitHub Action — set-up instructions below ⬇️</sub>
-
-</div>
-
-<details>
-<summary><b>🔧 How to enable the snake animation (one-time setup)</b></summary>
-
-1. In your profile repo, create `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: abhinavbajpayee
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Push it — the Action will generate the snake SVG on the `output` branch automatically.
-</details>
 
 ## ✍️ Random Dev Wisdom
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600"/>
 
 </div>
 
@@ -149,7 +96,18 @@ jobs:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhinavbajpayee&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+### 🤝 Let's Build Something Great Together
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-bajpai-58b36128b/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavbajpayee88@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhinavbajpayee&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<sub>💡 Thanks for stopping by — feel free to explore my pinned repos below!</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
